@@ -1,0 +1,16 @@
+.panda-bg{
+    background-color:#fceae8;
+    margin-top: 30px;
+    border-radius: 1em;
+
+}
+.categories img{
+    width: 100px;
+}
+.contract{
+    background-color:#fceae8 ;
+    border-radius: 1em;
+}
+.panda-card{
+    border:0;
+}
